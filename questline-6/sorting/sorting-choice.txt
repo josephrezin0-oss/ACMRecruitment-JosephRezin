@@ -1,0 +1,4 @@
+
+I am choosing BUBBLESORT because it is simple wrt insertion sort and easy to understand(easy to do)  
+It repeatedly steps through the list by comparing adjacent elemnets and swaps them if they are in the wrong order.
+ this process is repeated until the list is sorted.
