@@ -1,0 +1,15 @@
+INITIAL VALUES: a=5, b=3,sum=0
+
+step1;
+current sum=0
+operation-   sum=sum+A ->5
+
+step2;
+current sum=5
+operation-  sum=sum+A ->10
+
+step3;
+current sum=10
+operation-   sum=sum+A ->15
+
+therefore final output=15
