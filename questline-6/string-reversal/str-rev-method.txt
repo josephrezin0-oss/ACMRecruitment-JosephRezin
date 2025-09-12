@@ -1,0 +1,16 @@
+
+
+1.Iterative method
+We reverse the string by using a loop and building a new string ,character by character, from the end of the original string.
+
+for this ,first we initialize an empty string. by traversing input string from last to first character and then appending each 
+characte to the new string, we follow iterative method.
+
+---
+
+ 2. Recursive Method
+We reverse the string by using recursion ie( each function call processes one character and calls itself for the rest of the string.)
+
+
+consider Base case: if string length is 0 or 1, return the string itself.
+ Recursive case:to reverse the substring excluding the first characte and then appending the first character at the end.
