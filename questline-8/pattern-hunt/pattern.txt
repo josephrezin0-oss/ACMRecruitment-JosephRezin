@@ -1,0 +1,10 @@
+The given sequence is seperated to individual parts-->
+
+6-2  =  4
+12-6 = 6
+20-12= 8
+
+the difference between adjacent elements in this sequence forms an AP.
+with common difference 2.
+therefore the difference between the 5th term and 4th term should be 8+2=10
+so, 5th term =20+10=4=30
