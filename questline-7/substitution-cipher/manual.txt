@@ -1,0 +1,11 @@
+Manual Caesar Cipher Implementation
+
+Word: RECRUIT
+Shift: +3
+(each letters position is moved forward by 3 places)
+Encoded word: UHFUXLW
+
+Word: ZHOFRPH
+Shift: -3
+(each letters position is moved backward by 3 places)
+Decoded word: WELCOME
