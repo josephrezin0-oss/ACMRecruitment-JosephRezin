@@ -1,0 +1,8 @@
+Let us consider the property of heating of bulb for this solution.;
+
+Turn switch A on and leave it on for about 3–5 minutes.
+After that time, turn A off and immediately turn switch B on.
+Walk into the other room (the one with the bulb) once and observe:
+If the bulb is on, then B controls the bulb.
+If the bulb is off but the bulb is warm/hot to the touch, then A controls the bulb bcause it was heated while A was on, then turned off.
+If bulb is off and cold, then C controls the bulb (because neither A nor B were left on long enough to heat it).
