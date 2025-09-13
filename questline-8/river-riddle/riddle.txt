@@ -1,0 +1,24 @@
+river-riidle solution->
+
+Take the goat across first.
+(Farmer and goat cross. Wolf + cabbage stay behind.)
+
+Go back alone.
+(Farmer rows back.)
+
+Take the wolf across.
+(Farmer and wolf cross.)
+
+Bring the goat back.
+(Farmer takes goat back to the starting side.)
+
+Take the cabbage across.
+(Farmer and cabbage cross.)
+
+Go back alone.
+(Farmer rows back.)
+
+Finally, take the goat across again.
+(Farmer and goat cross.)
+
+Now everyone is on the other side safely so, the goat was never left alone with the wolf or the cabbage.
