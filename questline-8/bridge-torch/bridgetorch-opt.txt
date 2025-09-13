@@ -1,0 +1,18 @@
+Label people by their times: A = 1, B = 2, C = 7, D = 10.
+
+A and B cross time = 2 (A and B are now on other side).
+Elapsed: 2 (because pace of slower person is considered.)
+
+A returns with the torch time = 1min.
+Elapsed: 2 + 1 = 3min
+
+C and D cross together time = 10min (C and D go across).
+Elapsed: 3 + 10 = 13min
+
+B returns with the torch time = 2.
+Elapsed: 13 + 2 = 15
+
+A and B cross again time = 2.
+Elapsed: 15 + 2 = 17
+
+All four are across, torch ends on the far side, total time = 17 minutes.
